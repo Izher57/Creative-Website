@@ -1,0 +1,61 @@
+body { background-image: linear-gradient(to right, #D6EAF8, #2471a3);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+       color: #221811;
+	   font-family: "Comic sans MS"; 
+}
+#wrapper { background-color: #D6EAF8;
+           margin-left: auto;
+           margin-right: auto;
+		   width: 80%;
+           min-width: 900px;
+		   max-width: 1280px;
+		   box-shadow: 2px 2px 3px #000000;
+}   
+.details { padding-left: 20%;
+			padding-right: 20%;}
+img { padding-left: 10px;
+		padding-right: 10px;}
+#homehero{ height: 300px;
+			background-image: url(newviz.jpg);
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center center}
+.price-color{color: #22A2E3;}
+header { background-color: #53a1f1; 
+         color: #FFFFFF;
+		 font-family: impact;
+		 text-align: center; 
+		 padding-top: 5px;
+		 padding-bottom: 5px;
+}
+h1 { font-size: 3em;}
+h2 { color: #2471a3; }
+h3 { color: #2471a3;}
+dt { color: #2471a3;}
+h4 { background-color: #A2C4E0;
+		color: #2367B1;
+		font-size: 1.2em;
+		padding-left: .5em;
+		padding-bottom: .25em;
+}
+main { padding-left: 2em;
+		padding-right: 2em;
+		padding-bottom: 2em;
+}
+nav { font-size: 1.5em; 
+	  padding-top: 5px;
+	  padding-bottom: 5px;
+	  text-align: center;
+}
+nav a { text-decoration: none;}
+
+footer { background-color: #53a1f1;
+         font-size: .60em;
+		 font-style: italic;
+		 text-align: center;
+		 padding: 1em;
+		 border-top: 2px solid #2471a3;
+}
+ 
